@@ -1,24 +1,10 @@
-/* Body Styles */
-body {
-    padding: 5px;
-    background-color: rgb(66, 96, 228);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    min-height: 100vh;
-    max-width: 100%;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 18px; 
-    color: #fdfdfd;
-}
-
 /* Horizontal Rule Styles */
 hr {
     border-width: 20%;
     border-style: dotted none none none;
     display: block;
     margin: 0.5em auto;
-    width: 20%;
+    width: 30%;
 }
 
 /* Video Container Styles */
