@@ -1,10 +1,10 @@
 /* Horizontal Rule Styles */
 hr {
-    border-width: 20%;
+    border-width: 2px;
     border-style: dotted none none none;
     display: block;
     margin: 0.5em auto;
-    width: 30%;
+    width: 50%;
 }
 
 /* Video Container Styles */
